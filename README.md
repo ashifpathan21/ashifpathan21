@@ -10,17 +10,16 @@
 ### 🧠 About Me  
 🎓 I'm an Information Technology student at **Jabalpur Engineering College (JEC)**  
 💡 I love building scalable apps, solving real problems, and pushing tech limits.  
-🔥 Passionate about **MERN Stack**, **Framer Motion**, and **React Native**.  
-⚙️ Currently working on **EdTech** and **Startup Collaboration Platforms**.  
-📈 Exploring **Cybersecurity**, **AI Integration**, and **System Design**.
+🔥 Passionate about **Exploring , Building , Empacting**  
+📈 Exploring **DEVELOPMENT**, **DEVOPS**, and **WEB3**.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+<p align="center" style={{background-color:gray}} >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"  alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="NodeJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" alt="Redux" />
@@ -45,12 +44,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashif&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashif&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashifpathan21&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashifpathan21&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashif&layout=compact&theme=tokyonight&hide_border=true" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashifpathan21&layout=compact&theme=tokyonight&hide_border=true" height="150em"/>
 </p>
 
 ---
