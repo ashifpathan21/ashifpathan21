@@ -11,7 +11,7 @@
 🎓 I'm an Information Technology student at **Jabalpur Engineering College (JEC)**  
 💡 I love building scalable apps, solving real problems, and pushing tech limits.  
 🔥 Passionate about **Exploring , Building , Empacting**  
-📈 Exploring **DEVELOPMENT**, **DEVOPS**, and **WEB3**.
+📈 Exploring **DEVELOPMENT**, **DEVOPS** , **AI**.
 
 ---
 
